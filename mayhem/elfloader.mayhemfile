@@ -1,0 +1,6 @@
+project: elfloader
+target: elfloader
+
+cmds:
+  - cmd: /elfloader @@ /dev/null
+  - cmd: /elfloader --perms @@ /dev/null
